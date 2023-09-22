@@ -1,0 +1,17 @@
+{
+    "ItemsRoot": "C:\\Users\\patri\\Desktop\\Scripts\\ShortcutTray",
+
+    "Items_File": [
+
+    ],
+
+    "Items_CommandLine": [
+        {
+            "Name": "Build all fast",
+            "Target": "D:\\Projects\\Pathfinder\\tools\\TeaBox\\TeaBox.com",
+            "Tooltip": "",
+            "Arguments": "01 - Murder"
+        }
+
+    ]
+}
